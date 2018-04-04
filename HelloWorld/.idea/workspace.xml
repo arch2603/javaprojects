@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfa644eb-dff3-4d11-8d51-6a5c38dfd13d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../../HRSys/user.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/HelloWorld.java" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/app/Http/Controllers/Auth/LoginController.php" afterPath="$PROJECT_DIR$/../../AHISSys/app/Http/Controllers/Auth/LoginController.php" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/app/Http/Controllers/HomeController.php" afterPath="$PROJECT_DIR$/../../AHISSys/app/Http/Controllers/HomeController.php" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/app/Http/Controllers/UsersController.php" afterPath="$PROJECT_DIR$/../../AHISSys/app/Http/Controllers/UsersController.php" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/app/Http/Middleware/VerifyCsrfToken.php" afterPath="$PROJECT_DIR$/../../AHISSys/app/Http/Middleware/VerifyCsrfToken.php" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/composer.lock" afterPath="$PROJECT_DIR$/../../AHISSys/composer.lock" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/config/app.php" afterPath="$PROJECT_DIR$/../../AHISSys/config/app.php" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/database/migrations/2014_10_12_000000_create_users_table.php" afterPath="$PROJECT_DIR$/../../AHISSys/database/migrations/2014_10_12_000000_create_users_table.php" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/public/css/app.css" afterPath="$PROJECT_DIR$/../../AHISSys/public/css/app.css" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/public/css/foundation.css" afterPath="$PROJECT_DIR$/../../AHISSys/public/css/foundation.css" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/resources/schema/erd_db_schema.vsdx" afterPath="$PROJECT_DIR$/../../AHISSys/resources/schema/erd_db_schema.vsdx" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/resources/views/auth/passwords/email.blade.php" afterPath="$PROJECT_DIR$/../../AHISSys/resources/views/auth/passwords/email.blade.php" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/resources/views/auth/passwords/reset.blade.php" afterPath="$PROJECT_DIR$/../../AHISSys/resources/views/auth/passwords/reset.blade.php" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/resources/views/auth/register.blade.php" afterPath="$PROJECT_DIR$/../../AHISSys/resources/views/auth/register.blade.php" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/resources/views/contents/home.blade.php" afterPath="$PROJECT_DIR$/../../AHISSys/resources/views/contents/home.blade.php" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/resources/views/home.blade.php" afterPath="$PROJECT_DIR$/../../AHISSys/resources/views/home.blade.php" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/resources/views/layouts/app.blade.php" afterPath="$PROJECT_DIR$/../../AHISSys/resources/views/layouts/app.blade.php" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/resources/views/users/form.blade.php" afterPath="$PROJECT_DIR$/../../AHISSys/resources/views/users/form.blade.php" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/resources/views/users/index.blade.php" afterPath="$PROJECT_DIR$/../../AHISSys/resources/views/users/index.blade.php" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/resources/views/users/newUser.blade,php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/resources/views/users/show.blade.php" afterPath="$PROJECT_DIR$/../../AHISSys/resources/views/users/show.blade.php" />
+      <change beforePath="$PROJECT_DIR$/../../AHISSys/routes/web.php" afterPath="$PROJECT_DIR$/../../AHISSys/routes/web.php" />
+      <change beforePath="$PROJECT_DIR$/../../app/app/Http/Controllers/ClientController.php" afterPath="$PROJECT_DIR$/../../app/app/Http/Controllers/ClientController.php" />
+      <change beforePath="$PROJECT_DIR$/../../app/app/ReadOnlyBase.php" afterPath="$PROJECT_DIR$/../../app/app/ReadOnlyBase.php" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/.htaccess" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/css/app.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/css/foundation.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/css/foundation.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/images/attractions.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/js/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/js/vendor/foundation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/js/vendor/foundation.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/js/vendor/jquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/js/vendor/what-input.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/.jshintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/LICENSE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/legacy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/picker.date.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/picker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/picker.time.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/themes/classic.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/themes/classic.date.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/themes/classic.time.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/themes/default.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/themes/default.date.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/themes/default.time.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/themes/rtl.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/ar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/bg_BG.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/bs_BA.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/ca_ES.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/cs_CZ.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/da_DK.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/de_DE.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/el_GR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/es_ES.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/et_EE.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/eu_ES.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/fa_IR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/fi_FI.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/fr_FR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/gl_ES.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/he_IL.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/hi_IN.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/hr_HR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/hu_HU.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/id_ID.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/is_IS.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/it_IT.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/ja_JP.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/ko_KR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/lt_LT.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/lv_LV.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/nb_NO.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/ne_NP.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/nl_NL.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/no_NO.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/pl_PL.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/pt_BR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/pt_PT.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/ro_RO.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/ru_RU.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/sk_SK.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/sl_SI.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/sv_SE.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/th_TH.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/tr_TR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/uk_UA.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/vi_VN.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/zh_CN.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/compressed/translations/zh_TW.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/legacy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/picker.date.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/picker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/picker.time.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/themes-source/_variables.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/themes-source/base.date.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/themes-source/base.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/themes-source/base.time.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/themes-source/classic.date.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/themes-source/classic.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/themes-source/classic.time.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/themes-source/default.date.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/themes-source/default.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/themes-source/default.time.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/themes-source/rtl.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/themes/classic.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/themes/classic.date.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/themes/classic.time.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/themes/default.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/themes/default.date.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/themes/default.time.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/themes/rtl.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/FORMATTING.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/NAMING.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/ar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/bg_BG.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/bs_BA.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/ca_ES.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/cs_CZ.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/da_DK.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/de_DE.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/el_GR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/es_ES.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/et_EE.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/eu_ES.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/fa_ir.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/fi_FI.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/fr_FR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/gl_ES.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/he_IL.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/hi_IN.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/hr_HR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/hu_HU.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/id_ID.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/is_IS.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/it_IT.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/ja_JP.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/ko_KR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/lt_LT.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/lv_LV.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/nb_NO.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/ne_NP.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/nl_NL.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/pl_PL.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/pt_BR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/pt_PT.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/ro_RO.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/ru_RU.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/sk_SK.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/sl_SI.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/sv_SE.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/th_TH.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/tr_TR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/uk_UA.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/vi_VN.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/zh_CN.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/lib/translations/zh_TW.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/version-bump.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/pickadate/version-commit.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/robots.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/public/web.config" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../app/resources/views/layouts/app.blade.php" afterPath="$PROJECT_DIR$/../../app/resources/views/layouts/app.blade.php" />
+      <change beforePath="$PROJECT_DIR$/../../app/routes/web.php" afterPath="$PROJECT_DIR$/../../app/routes/web.php" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="49" lean-forward="false" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/HelloWorld.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="HelloWorld" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfa644eb-dff3-4d11-8d51-6a5c38dfd13d" name="Default" comment="" />
+      <created>1519300975315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519300975315</updated>
+      <workItem from="1519300985562" duration="966000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="966000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985657" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21625" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="49" lean-forward="false" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
